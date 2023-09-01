@@ -1,16 +1,22 @@
-### Hi there 👋
+(https://user-images.githubusercontent.com/91045422/229299200-c35c5258-f96e-44a1-9afb-f0869fa828ea.gif)
 
-<!--
-**evaredon/evaredon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Eva Redon 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm passionate about building interactive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me :
+***
+
+- 💼 I did training with OClock
+- 🔭 I enjoy working on front-end development and creating visually appealing user interfaces.
+- 🌱 I’m currently learning next.js to enhance my web development skills.
+- 📚 I'm continuously expanding my knowledge and staying up to date with the latest web development trends and technologies.
+
+## Contact :
+***
+
+- 📧 Mail adress : evaredon2001@gmail.com
+- 🌐 [Linkedin] (https://www.linkedin.com/in/eva-redon-dev/)
+
+
+Happy coding! 🌻
