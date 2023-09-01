@@ -1,4 +1,4 @@
-## Hello, I'm Eva Redon 👋
+### Hello, I'm Eva Redon 👋
 
 Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm passionate about building interactive and user-friendly web applications.
 
