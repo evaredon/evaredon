@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm 
 
 ## About me :
 
-- 💼 I did training with OClock
+- 💼 I studied with O'Clock, a full remote school
 - 🔭 I enjoy working on front-end development and creating visually appealing user interfaces.
 - 🌱 I’m currently learning next.js to enhance my web development skills.
 - 📚 I'm continuously expanding my knowledge and staying up to date with the latest web development trends and technologies.
