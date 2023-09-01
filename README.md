@@ -15,4 +15,5 @@ Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm 
 - 🌐 Linkedin : https://www.linkedin.com/in/eva-redon-dev/
 
 
+---
 Happy coding! 🌻
