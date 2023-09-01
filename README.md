@@ -31,8 +31,7 @@ Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm 
 - 📧 Mail adress : **<evaredon2001@gmail.com>**
 - 🌐 Linkedin : https://www.linkedin.com/in/eva-redon-dev/
 
-<img src="https://camo.githubusercontent.com/953ce646a0c184fcf5dcabd6f600b5b39aa5e75e42d327cf054ff9530e9a0ecf/68747470733a2f2f6d656469612e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966
-" width="50" height="50"/>
+<img src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966" width="100" height="100"/>
 
 ---
 Happy coding! 🌻
