@@ -4,6 +4,7 @@
     <br>
   <img src="https://i.imgur.com/kyAienM.gif" width="900" height="300"/>
     <br>
+    <br>
   <span> FrontEnd Developer </span>
 </div>
 
