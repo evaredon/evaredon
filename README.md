@@ -11,9 +11,10 @@
 </h1>
 
 Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm passionate about building interactive and user-friendly web applications.
-
     <br>
-    
+...
+    <br>
+
 ## 👨‍💻 About me :
 
 - 💼 I studied with [O'clock](https://oclock.io/formations/developpeur-web), a full remote school
