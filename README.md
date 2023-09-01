@@ -1,11 +1,8 @@
-(https://user-images.githubusercontent.com/91045422/229299200-c35c5258-f96e-44a1-9afb-f0869fa828ea.gif)
-
 ## Hello, I'm Eva Redon 👋
 
 Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm passionate about building interactive and user-friendly web applications.
 
 ## About me :
-***
 
 - 💼 I did training with OClock
 - 🔭 I enjoy working on front-end development and creating visually appealing user interfaces.
@@ -13,7 +10,6 @@ Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm 
 - 📚 I'm continuously expanding my knowledge and staying up to date with the latest web development trends and technologies.
 
 ## Contact :
-***
 
 - 📧 Mail adress : evaredon2001@gmail.com
 - 🌐 [Linkedin] (https://www.linkedin.com/in/eva-redon-dev/)
