@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 </div>
 
 
