@@ -1,10 +1,12 @@
-<h1 align="center">Hello, I'm Eva :)</h1>
+<h1 align="center">Hello, I'm Eva :)
 
 <div align="center">
   <img src="https://i.imgur.com/kyAienM.gif" width="900" height="300"/>
+    <br>
+  <span>👩‍💻 FrontEnd Developer 👩‍💻</span>
 </div>
 
-<h3 align="center">Front-end Web Developer</h3>
+</h1>
 
 ---
 
@@ -17,16 +19,29 @@ Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm 
 - 🌱 I’m currently learning next.js to enhance my web development skills.
 - 📚 I'm continuously expanding my knowledge and staying up to date with the latest web development trends and technologies.
 
+---
+
 ## 🛠️ Technos / Tools
 
+#### FrontEnd
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg)
+![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg)
+![NextJs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
 </div>
 
+#### 🎨 UI
+<div align="center">
+![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg)
+</div>
+
+#### 📈 Project Management
+<div align="center">
+![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello2.svg)
+![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg)
+</div>
+
+---
 
 ## 📱 Contact :
 
