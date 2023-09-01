@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Eva :)</h1>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/cbc3d09f0f7e748836c2b233e598fcbe/tumblr_on52m1EbIh1uer6cyo2_500.gifv" width="700" height="300"/>
+  <img src="https://64.media.tumblr.com/cbc3d09f0f7e748836c2b233e598fcbe/tumblr_on52m1EbIh1uer6cyo2_500.gifv" width="900" height="200"/>
 </div>
 
 <h3 align="center">Front-end Web Developer</h3>
