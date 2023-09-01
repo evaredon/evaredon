@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm 
 ## Contact :
 
 - 📧 Mail adress : evaredon2001@gmail.com
-- 🌐 [Linkedin] (https://www.linkedin.com/in/eva-redon-dev/)
+- 🌐 Linkedin : https://www.linkedin.com/in/eva-redon-dev/
 
 
 Happy coding! 🌻
