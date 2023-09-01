@@ -4,12 +4,10 @@
     <br>
   <img src="https://i.imgur.com/kyAienM.gif" width="900" height="300"/>
     <br>
-  <span>👩‍💻 FrontEnd Developer 👩‍💻</span>
+  <span> FrontEnd Developer </span>
 </div>
 
 </h1>
-
----
 
 Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm passionate about building interactive and user-friendly web applications.
 
