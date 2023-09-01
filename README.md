@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm Eva :)
 
 <div align="center">
+    <br>
   <img src="https://i.imgur.com/kyAienM.gif" width="900" height="300"/>
     <br>
   <span>👩‍💻 FrontEnd Developer 👩‍💻</span>
@@ -24,22 +25,16 @@ Welcome to my GitHub profile! I'm a beginner web developer who loves React. I'm 
 ## 🛠️ Technos / Tools
 
 #### FrontEnd
-<div align="center">
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg)
 ![Redux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg)
 ![NextJs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
-</div>
 
 #### 🎨 UI
-<div align="center">
 ![Sass](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg)
-</div>
 
 #### 📈 Project Management
-<div align="center">
 ![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello2.svg)
 ![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg)
-</div>
 
 ---
 
